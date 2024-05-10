@@ -10,7 +10,7 @@
   </PropertyGroup>
 
 	<PropertyGroup>
-		<TargetFramework>net7.0-windows</TargetFramework>
+		<TargetFramework>net8.0-windows</TargetFramework>
 		<Platforms>x64</Platforms>
 		<Nullable>enable</Nullable>
 		<LangVersion>latest</LangVersion>
@@ -18,7 +18,7 @@
 		<ProduceReferenceAssembly>false</ProduceReferenceAssembly>
 		<AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
     <!--TO BE DEPRECATED-->
-		<OutputPath>$(AppData)\XIVLauncher\devPlugins\HighFpsPhysicsPlugin\</OutputPath>
+		<OutputPath>..\HighFpsPhysicsPlugin\</OutputPath>
 		<RestorePackagesWithLockFile>true</RestorePackagesWithLockFile>
 	</PropertyGroup>
 
