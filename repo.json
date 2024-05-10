@@ -3,8 +3,8 @@
     "Author": "Kirrana",
     "Name": "High FPS Physics Fix",
     "InternalName": "HighFpsPhysicsPlugin",
-    "AssemblyVersion": "7.0.0.0",
-    "TestingAssemblyVersion": "7.0.0.0",
+    "AssemblyVersion": "7.3.0.0",
+    "TestingAssemblyVersion": "7.3.0.0",
     "Description": "Causes the game's physics to work at higher FPS by making it update every few frames. \nToggle with '/physics t', or use on/off instead of t. \nMay cause excessive jiggling at lower FPS values. \nDisabling the entire plugin after turning on/off with /physics requires reboot to reenable.",
     "Punchline": "Reduces the refresh rate of movement physics, \"fixing\" it at high fps.",
     "ApplicableVersion": "any",
@@ -19,9 +19,9 @@
     "LoadSync": false,
     "CanUnloadAsync": false,
     "LoadPriority": 0,
-    "DownloadLinkInstall": "https://github.com/woimqimodkbrne/xivlauncher_physics_plugin/releases/download/7.0.0.0/HighFpsPhysicsPlugin.zip",
-    "DownloadLinkUpdate": "https://github.com/woimqimodkbrne/xivlauncher_physics_plugin/releases/download/7.0.0.0/HighFpsPhysicsPlugin.zip",
-    "DownloadLinkTesting": "https://github.com/woimqimodkbrne/xivlauncher_physics_plugin/releases/download/7.0.0.0/HighFpsPhysicsPlugin.zip",
+    "DownloadLinkInstall": "https://github.com/woimqimodkbrne/xivlauncher_physics_plugin/releases/download/7.3.0.0/HighFpsPhysicsPlugin.zip",
+    "DownloadLinkUpdate": "https://github.com/woimqimodkbrne/xivlauncher_physics_plugin/releases/download/7.3.0.0/HighFpsPhysicsPlugin.zip",
+    "DownloadLinkTesting": "https://github.com/woimqimodkbrne/xivlauncher_physics_plugin/releases/download/7.3.0.0/HighFpsPhysicsPlugin.zip",
     "AcceptsFeedback": true
   }
 ]
